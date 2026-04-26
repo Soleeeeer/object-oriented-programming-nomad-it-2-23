@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lab-01/lab-01.iml" filepath="$PROJECT_DIR$/lab-01/lab-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-02/lab-02.iml" filepath="$PROJECT_DIR$/lab-02/lab-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-03/lab-03.iml" filepath="$PROJECT_DIR$/lab-03/lab-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab-04/lab-04.iml" filepath="$PROJECT_DIR$/lab-04/lab-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/object-oriented-programming-nomad-it-2-23.iml" filepath="$PROJECT_DIR$/.idea/object-oriented-programming-nomad-it-2-23.iml" />
     </modules>
   </component>
